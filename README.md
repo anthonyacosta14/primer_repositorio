@@ -16,4 +16,4 @@
 ---
 ## Códigos de crud
 ### CRUD sencillo
-```python
+`Esto es una línea de código`
