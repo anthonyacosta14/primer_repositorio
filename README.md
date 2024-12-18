@@ -51,3 +51,5 @@ def main():
         else:
             print("Opcion incorrecta")
 ~~~
+## IMNAGEN CURIOSA Y OBLIGATORIA
+![imagen](/imagenes/imagenn.jpg)
