@@ -53,3 +53,4 @@ def main():
 ~~~
 ## IMAGEN CURIOSA Y OBLIGATORIA
 ![imagen](/imagenes/imagenn.jpg)
+![imagen](/imagenes/sergio.jpg)
